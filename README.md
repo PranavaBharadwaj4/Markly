@@ -1,6 +1,6 @@
 # Getting Started with Markly.
-`### This just in!
-MarkThat is an *awesome* way to write **very basic HTML** by typing manually
+`#This just in!
+Markly is an *awesome* way to write **very basic HTML** by typing manually
 It can be used for:
 1. README files
 1. Slack and Discord messages
